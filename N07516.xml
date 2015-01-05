@@ -124,8 +124,8 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:009594_0000_0F76DC59D4B35100"/>
-            <pb facs="tcp:009594_0001_0F76DC5BB8066070"/>
+            <pb facs="unknown:009594_0000_0F76DC59D4B35100"/>
+            <pb facs="unknown:009594_0001_0F76DC5BB8066070"/>
             <p>THE CONDUCT OF THE PAXTON-MEN, IMPARTIALLY REPRESENTED: WITH <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>O REMAR<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -134,7 +134,7 @@
             <p>PHILADELPHIA: PRINTED BY ANDREW STEUART. MDCCLXIV.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:009594_0002_0F76DC5C6014C0D8"/>
+            <pb facs="unknown:009594_0002_0F76DC5C6014C0D8"/>
             <p>THE CONDUCT OF The PAXTON-MEN, Impartially repreſented; The DISTRESSES of the FRONTIERS, and the COMPLAINTS and SUFFERINGS of the PEOPLE fully ſtated; and the Methods recommended by the wiſeſt Nations, in ſuch Caſes, ſeriouſly conſider'd.</p>
             <p>WITH SOME REMARKS upon the NARRATIVE, Of the Indian-Maſſacre, lately publiſh'd.</p>
             <p>Interſpers'd with ſeveral intereſting Anecdotes, relating to the MILITARY GENIUS, and WARLIKE PRINCIPLES of the People call'd QUAKERS: Together-with proper Reflec<g ref="char:EOLhyphen"/>tion and Advice upon the whole.</p>
@@ -172,7 +172,7 @@
       </front>
       <body>
          <div type="text">
-            <pb n="3" facs="tcp:009594_0003_0F76DC5CF84DA688"/>
+            <pb n="3" facs="unknown:009594_0003_0F76DC5CF84DA688"/>
             <head>A LETTER from a GENTLEMAN in one of the Frontier-Counties, to his Friend in Phi<g ref="char:EOLhyphen"/>ladelphia, relating to the Paxton-Men.</head>
             <opener>
                <salute>DEAR SIR,</salute>
@@ -185,12 +185,12 @@
                   </gap> his Teſtimony againſt, and to diſcountenance by every Means in his Power.</note>
             </p>
             <p>
-               <pb n="4" facs="tcp:009594_0004_0F76DC5D959F3F70"/>
+               <pb n="4" facs="unknown:009594_0004_0F76DC5D959F3F70"/>
 The INSURGENTS themſelves hand about a Kind of <hi>Mani<g ref="char:EOLhyphen"/>feſto,</hi> which contains the following Declaration, Grievances, Complaints, <hi>&amp;c.</hi>—viz.</p>
             <q>
                <p>That a trifling Diſpute, between a few Engliſh and French Traders upon the <hi>Ohio,</hi> was neglected; the profer'd Mediation and Aſſiſtance of the Indians to end the Quarrel, and the Proprietary-Offer of £. 400, for erecting a ſmall Fortification there, together with £. 100 yearly, towards the Support of it, were contemptuouſly rejected <note n="(b)" place="bottom">See Governor MORRIS'S Meſſage of November 22, 1755.</note> till it kindled the Flames of War, which at laſt ſpread and raged over half the Globe.—That from the Neglect of the <hi>Legiſ<g ref="char:EOLhyphen"/>lative Part</hi> of this Province, and the horrid Doctrines of <hi>Non-Reſiſtance</hi> at that Time ſo ſtrenouſly maintain'd, ſuch Calamities enſued, that near <hi>one Hundred Miles</hi> of as thriv<g ref="char:EOLhyphen"/>ing a Settlement as any in Pennſylvania has been reduced to Deſolation; many of the Inhabitants murdered or carried into Captivity, and the Reſt often drove from their Habi<g ref="char:EOLhyphen"/>tations in the utmoſt Diſtreſs and Want.—And beſides theſe particular Effects of this War, ſome of the beſt Blood in Chriſtendom has been ſpilt in it—whole Kingdoms have been almoſt depopulated; and Miſery and Ruin en<g ref="char:EOLhyphen"/>tail'd upon Millions of their Fellow Creatures.</p>
                <p>That even in the Midſt of this Deſolation and Carnage, every publick Meaſure was clogg'd— the King's Demands for Men and Money procraſtinated— unneceſſary, or at leaſt ill-timed Diſputes, about <hi>Proprietary Inſtuctions and Taxes,</hi> were brought upon the Carpet, in Order to divert the Reproach and Diſhonour which the Province, thro' Quaker Meaſures, had incurr'd, and throw the whoſe Blame of the War at the <hi>Proprietary</hi> Doors.<note n="(c)" place="bottom">See the Speeches and Meſſages between the Governer and Aſſem<g ref="char:EOLhyphen"/>bly, from the Year 1753, to the Year 1760.</note> And that this villainous Scheme might carry with it a better Face, the late infamous TEDYUSCUNG was treated with, and employed to charge the Proprietaries with having defrauded the Indians of ſome Lands, and to declare that this was the Occaſion of all their Uneaſineſs and Enmity to the <hi>Engliſh.</hi>—But infamous as TEDYUSCUNG was, he own'd at laſt that his Complaints were unjuſt; publickly renounc'd his Claim, and declared in open
-<pb n="5" facs="tcp:009594_0005_0F76DC5E60755768"/>
+<pb n="5" facs="unknown:009594_0005_0F76DC5E60755768"/>
 Treaty that he was urged to act this baſe Part, and that <q>he was only the <hi>Mouth of ſome Perſons</hi> in <hi>Philadelphia,</hi> whom he did not chuſe to name.<note n="(d)" place="bottom">This <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>e declared at the laſt Treaty at <hi>Lancaſter.</hi>
@@ -204,7 +204,7 @@ Treaty that he was urged to act this baſe Part, and that <q>he was only the <hi
                <p>That agreeable to the Command of the Prophet, they have <q>fought for their Brethren, their Sons, and their Daughters, their Wives and their Houſes.</q>—That in this Conteſt, many of them have loſt their deareſt Relatives; their Houſes, their Lands, their all; and from a plenti<g ref="char:EOLhyphen"/>full independent People have been reduced to Miſery and Want.</p>
                <p>That they have been treated as <hi>Aliens</hi> of the Common-Wealth, and denied a juſt and <hi>proportionable Share in Legiſlation:</hi> For that out of 36 Members which the eight Counties in the Province ſend to Aſſembly, the three Counties of <hi>Philadel<g ref="char:EOLhyphen"/>phia, Cheſter</hi> and <hi>Bucks,</hi> where the Quakers are chiefly ſettled, return 26 of that Number; while the 5 remaining Counties, where theſe LORDLY RULERS could have no Chance of getting elected, are ſuffered to ſend but the other Ten.</p>
                <p>That by this iniquitous Policy, the Inhabitants of theſe five Frontier-Counties, altho' a great Majority, have been
-<pb n="6" facs="tcp:009594_0006_0F76DC5F4F509010"/>
+<pb n="6" facs="unknown:009594_0006_0F76DC5F4F509010"/>
 rendered unable to act in Defence of their Lives and Pro<g ref="char:EOLhyphen"/>perties; and therefore have lain for above eight Years at the Mercy of a cruel Savage Enemy and an unrelenting Quaker Faction: Whereas had they been juſty repreſented in Legiſlation, inſtead of preſenting PACIFICK ADDRESSES to the Aſſembly, telling them that <q>the raiſing large Sums of Money, and putting them into Hands of COMMIT<g ref="char:EOLhyphen"/>TEES, who might apply them to Purpoſes inconſiſtent with their PEACEABLE TESTIMONY, was in its Conſequen<g ref="char:EOLhyphen"/>ces deſtructive of RELIGIOUS LIBERTY.<note n="(e)" place="bottom">See the Quaker-Addreſs to the Aſſembly, November 6, 1755.</note>
                   </q> Inſtead of doing this, I ſay,— the firſt great Law of Nature, that of SELF-DEFENCE, would have been adminiſtred to the Peo<g ref="char:EOLhyphen"/>ple upon the firſt Alarm of Danger, and the Hands of the HARDY and the BRAVE would have been ſet at Liberty, til they had taken ample Vengeance of their MURDERERS.</p>
                <p>That they have often, in the moſt ſuppliant Manner, laid their Grievances before the Aſſembly; and inſtead of being redreſs'd, have been abuſed, inſulted, and even by ſome Members of that <hi>venerable Houſe,</hi> deem'd as unwor<g ref="char:EOLhyphen"/>thy of Protection, as <q>A Pack of inſignificant SCOTCH-IRISH, who, if they were all <hi>killed,</hi> could well enough be ſpared.<note n="(f)" place="bottom">This unchriſtian and ungenerous Speech was made by N—L G—<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -213,7 +213,7 @@ rendered unable to act in Defence of their Lives and Pro<g ref="char:EOLhyphen"/
                   </q>
                </p>
                <p>That whilſt they were thus abuſed, and thus ſtript of their <hi>Birth-Rights,</hi>—ISRAEL and JOSEPH, two pet<g ref="char:EOLhyphen"/>ty Fellows, who ought to have no higher Claims than themſelves, were permitted to lord it over the Land; and in Contempt of the Government, and the ex<g ref="char:EOLhyphen"/>preſs Orders of the Crown, forbiding them to hold private Treaties with the Indians, exchange Belts of Wam<g ref="char:EOLhyphen"/>pum with them—make them Preſents—all this they have done, and in their own Name, without ſo much as in<g ref="char:EOLhyphen"/>cluding the ſimple MENONISTS, from whom they had extorted large Sums of Money to Support this Expence.— Nay, even with the moſt matchleſs Impudence, inſinuated to the Indians that they were Rulers and Go<g ref="char:EOLhyphen"/>vernors; as plainly appear'd at the late Treaty at LAN<g ref="char:EOLhyphen"/>CASTER,
-<pb n="7" facs="tcp:009594_0007_0F76DC5FE1EC18E8"/>
+<pb n="7" facs="unknown:009594_0007_0F76DC5FE1EC18E8"/>
 where the Principal CHEIF and SPEAKER told Mr. H—N, then Governor, <q>That as he underſtood there were two GOVERNORS in the Province, he would be glad to know which of them he was to treat with.<note n="(g)" place="bottom">That you may be convinc'd that ſuch was the Opinion of the <hi>In<g ref="char:EOLhyphen"/>dians,</hi> I muſt obſerve to you, that one PATRICK A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>NEW, of the Bo<g ref="char:EOLhyphen"/>
@@ -238,7 +238,7 @@ where the Principal CHEIF and SPEAKER told Mr. H—N, then Governor, <q>That as 
                      <desc>•</desc>
                   </gap>—N at <hi>Eaſton;</hi> and to Governor H—N, at <hi>Lancaſter:</hi> And that this, among other Things, has been productive of manifold Evils, by weakening our Credit with Indians, fruſtrating the good Intention of holding Treaties with them, and encouraging them, after they return'd from us loaded with Money, Cloaths, Arms and Ammunition, to look with Contempt upon us as a puſillanimous Pack of <hi>old Women,</hi> divided among ourſelves, without SPIRIT or RESOLUTION to call them to an Account, let them commit what Outrages they pleaſed upon us.—</p>
                <p>That they have been made Tributaries to ſupport the immenſe Expence of <hi>Indian Treaties;</hi> to which they chearfully ſubmitted, in Hopes that their dear Relati<g ref="char:EOLhyphen"/>ons and Fellow Subjects, who have been long detained in barbarous Captivity, would have been reſtored; But that inſtead of <hi>inſiſting</hi> upon the Promiſes and Engage<g ref="char:EOLhyphen"/>ments made by the Indians to this End, an extenſive and valuable Trade was opened with theſe faithleſs
-<pb n="8" facs="tcp:009594_0008_0F76DC609F83FE40"/>
+<pb n="8" facs="unknown:009594_0008_0F76DC609F83FE40"/>
 and perfidious Villains; and their poor unhappy Friends left to ſpend perhaps the Remainder of their days, in all the Sorrow and Miſeries of <hi>Heatheniſm</hi> and <hi>Bar<g ref="char:EOLhyphen"/>barity,</hi> and to bow their Necks to the cruel Slavery of Savages</p>
                <p>That at a Time when their ungenerous and mercileſs Enemies, had again, without the leaſt provocation, in<g ref="char:EOLhyphen"/>vaded the Province, with the very Arms and Ammuni<g ref="char:EOLhyphen"/>tion which they received at the late Treaties; and when the Frontiers were yet reeking with the Blood of their ſlaughter'd inhabitants; and the murdered Ghoſts of their Friends and Relatives cry'd aloud for Vengeance, a Number of Indians (many of which were concerned in this horrid Butchery) were eſcorted to the <hi>Metropolis,</hi> and there protected, cheriſhed, and maintained in Luxury and Idle<g ref="char:EOLhyphen"/>neſs, whilſt they, the poor Sufferers, were abandoned to Miſery, and left to ſtarve, or beg their Bread.</p>
                <p>That upon ſeeing themſelves thus abuſed and thus ne<g ref="char:EOLhyphen"/>glected, and conſidering that the Influence of a <hi>Quaker Fac<g ref="char:EOLhyphen"/>tion</hi> was the Source from whence all theſe Evils flow'd; and that <hi>pretended</hi> Scruples againſt War and Fighting were the Root from whence all their Calamities and heavy Suffer<g ref="char:EOLhyphen"/>ings ſprang, and if yet permitted, might produce worſe and more heavy, they were determined to bear no longer.</p>
@@ -252,7 +252,7 @@ and perfidious Villains; and their poor unhappy Friends left to ſpend perhaps t
                </p>
             </q>
             <p>Such is the Declaration, and ſuch the Complaints of theſe People. —And indeed nine Tenths of the Inhabitants
-<pb n="9" facs="tcp:009594_0009_0F76DC615474ADD8"/>
+<pb n="9" facs="unknown:009594_0009_0F76DC615474ADD8"/>
 of the Back-Counties either tacitly, or openly, ap<g ref="char:EOLhyphen"/>prove and ſupport them—Every cool and well thinking Man, as well as Men among themſelves, are ſenſibly con<g ref="char:EOLhyphen"/>cern'd that they were reduced to the Neceſſity of having Re<g ref="char:EOLhyphen"/>courſe to ſuch Methods as might be deem'd an Inſult to the Government and Laws of their King and Country.</p>
             <p>The Names of RIOTERS, REBELS, MURDERERS, WHITE SAVAGES, <hi>&amp;c.</hi> 
                <note n="(i)" place="bottom">See the NARRATIVE, and a Letter from 'SQUIRE READ, the JER<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -265,7 +265,7 @@ of the Back-Counties either tacitly, or openly, ap<g ref="char:EOLhyphen"/>prove
             <p>But this Triumph of theirs is founded upon a falſe Suppo<g ref="char:EOLhyphen"/>ſition, that <hi>Quakers</hi> never us'd Arms before.— Whereas, it can be prov'd that theſe People have <hi>taken up Arms,</hi> and <hi>fought well too,</hi> upon many other Occaſions.—Whoever will take the Trouble to read the printed Trials of G. KEITH, will find, that when a <hi>Quaker</hi>-Sloop, belonging to <hi>this</hi> Pro<g ref="char:EOLhyphen"/>vince, was formerly taken by ſome <hi>PIRATES,</hi> and finding it impoſſible to ſave both the <hi>Sloop,</hi> and their ſo much-cried-up <hi>Principle, againſt outward Force,</hi> they at laſt reſolved to give up the <hi>Principle,</hi> rather than the <hi>Sloop!</hi> and ſo oppoſed Force to <hi>Force</hi>—retook their Veſſel, and made ſome of the <hi>Pirates</hi> Priſoners!</p>
             <p>It is plain that the firſt <hi>Quakers</hi> were never againſt Force of Arms, if <hi>they</hi> thought the Quarrel juſt.</p>
             <p>If you will believe their own Writers, they fought well in the Reign of OLIVER CROMWELL.—<hi>G. Fox,</hi> in the Fifth Page of his Letter directed <hi>"To the Council of Officers of the Army, &amp;c."</hi> complains, That many <hi>Quakers</hi> were disbanded out of the Army, for no other Fault than their being <hi>QUA<g ref="char:EOLhyphen"/>KERS,</hi> though <hi>they</hi> were good <hi>Fighters</hi> and good <hi>Soldiers.</hi>
-               <pb n="10" facs="tcp:009594_0010_0F76DC6296706668"/>
+               <pb n="10" facs="unknown:009594_0010_0F76DC6296706668"/>
                <q>Many valiant Captains, Soldiers and Officers, ſays he, have been put out of the Army by Sea and Land, of whom it hath been ſaid among you, that they had rather have had <hi>One</hi> of Them, than <hi>Seven</hi> Men, and could have turn'd out <hi>one</hi> of them to <hi>ſeven</hi> Men, who, becauſe of their Faithfulneſs to the Lord God, and it may be for ſaying <hi>Thou</hi> to a particular Perſon, and for wearing their <hi>Hats,</hi> have been turn'd out from among you.</q>
             </p>
             <p>This ſame Mr. <hi>Fox,</hi> in a Book publiſh'd by him and ſome others of his Brethren, intitled, WEST <hi>anſwering to the</hi> NORTH, Page 96, 9<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -289,7 +289,7 @@ of the Back-Counties either tacitly, or openly, ap<g ref="char:EOLhyphen"/>prove
                </gap>9, Page 26, 27, &amp;c. tells him, That if he had been directed by his Advice, <q>The <gap reason="illegible" resp="#PDCC" extent="4 letters">
                      <desc>••••</desc>
                   </gap>ANDERS (ſays he to him) had been thy Subjects—GERMANY had given up to thy Will—The SPANIARD had quivered like a dry Leaf—The <hi>King
-<pb n="11" facs="tcp:009594_0011_0F76DC62F7354530"/>
+<pb n="11" facs="unknown:009594_0011_0F76DC62F7354530"/>
 of France</hi> ſhould have bowed under thee his Neck—The POPE ſhould have withered as in the Winter—The TURK<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> in all his Fatneſs, ſhould have ſmok'd— Thou ſhould'ſt have <hi>crumbled Nations</hi> to Duſt—Therefore, (ſays he) let thy SOLDIERS go forth with a free and willing Heart, that thou mayeſt <hi>rock Nations as in a Cradle.</hi>
@@ -314,7 +314,7 @@ of France</hi> ſhould have bowed under thee his Neck—The POPE ſhould have wi
             <p>But did not your <hi>Philadelphia Quakers</hi> take up Arms, and declare they would fight in <hi>one Caſe,</hi> namely, In Defence of <hi>Friend Indians?</hi>
             </p>
             <p>Therefore, theſe Quakers of Philadelphia have ſurely ei<g ref="char:EOLhyphen"/>ther committed a Thing <hi>unlawful for Chriſtians;</hi> or belied their Apoſtle, and done Deſpite to the Spirit of <hi>Barclay.</hi>—Again in Page 558, <hi>St. Robert</hi> ſays, <q>Whoever can recon<g ref="char:EOLhyphen"/>cile this, <hi>reſiſt not Evil,</hi> with, <hi>reſiſt Violence by Force; Give alſo thy other Check,</hi> with, <hi>Strike again;</hi> whoever
-<pb n="12" facs="tcp:009594_0012_0F76DC639285D240"/>
+<pb n="12" facs="unknown:009594_0012_0F76DC639285D240"/>
 (ſays he) can find a Means to reconcile theſe Things, may be ſuppoſed alſo to have found out a Way to recon<g ref="char:EOLhyphen"/>cile <hi>God</hi> with the <hi>Devil, Chriſt</hi> with <hi>Antichriſt, Light</hi> with <hi>Darkneſs,</hi> and <hi>Good</hi> with <hi>Evil.</hi>
                </q>
             </p>
@@ -325,13 +325,13 @@ of France</hi> ſhould have bowed under thee his Neck—The POPE ſhould have wi
             <p>Where do we find or read of an Inſtance of <hi>Trenches</hi> being thrown up, and <hi>Cannon</hi> planted, to oppoſe an inſignificant Mob?—And yet this was done by your <hi>Philadelphia Quakers,</hi> againſt a Handful of <hi>Freemen</hi> and the <hi>King's Subjects,</hi> who thought it their Duty to kill a Pack of vil<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>inous, faith<g ref="char:EOLhyphen"/>leſs Savages, whom they ſuſpected, and had Reaſon to be<g ref="char:EOLhyphen"/>lieve, were Murderers, Enemies to his <hi>Majeſty,</hi> his Govern<g ref="char:EOLhyphen"/>ment, and Subjects—Were ſuch violent Proceedings conſiſt<g ref="char:EOLhyphen"/>ent with the Principles which <hi>Quakers</hi> have profeſſed to the World? Were they conſiſtent with the Lenity and Mercy of an <hi>Engliſh</hi> Conſtitution? Surely No.—Such ſevere Mea<g ref="char:EOLhyphen"/>ſures will never do with a free People, who conceive them<g ref="char:EOLhyphen"/>ſelves
-<pb n="13" facs="tcp:009594_0013_0F76DC6538453660"/>
+<pb n="13" facs="unknown:009594_0013_0F76DC6538453660"/>
 oppreſſed.—Even <hi>France</hi> and <hi>Spain,</hi> notwithſtand<g ref="char:EOLhyphen"/>ing the arbitrary Government and ſevere Laws eſtabliſhed in them, are not without their <hi>Inſurrections</hi> and <hi>Tumults</hi>—I hope it will not be ſuſpected that I am a Favourer or En<g ref="char:EOLhyphen"/>courager of Mobs and Riots—I ſolemnly declare I have as great an Averſion to Mobs, and all riotous Proceedings, as any Man can have, as any Man ought to have<note n="(l)" place="bottom">See the firſt Note upon this Letter.</note>—But at the ſame Time, I muſt own, I ſhall never be for ſacrificing the Lives and Liberties of a free People to the Caprice and Obſtinacy of a deſtructive Faction.</p>
             <p>Whoever will examine the Proceedings and Debates of Parliament, eſpecially thoſe in the Year 1737, will find the Sentiments of the wiſeſt and braveſt People under Heaven, concerning Tumults and Riots.—As theſe Things were in<g ref="char:EOLhyphen"/>troduced into the Debates of that Seſſion, I ſhall trouble you with a few Extracts of the Speeches on that Occaſion.</p>
             <p>Lord C—T declared himſelf thus—<q>The People (ſays he) ſeldom or never aſſemble in any riotous or tumultuous Manner, unleſs when they are oppreſſed, or at leaſt ima<g ref="char:EOLhyphen"/>gine they are oppreſſed<g ref="char:punc">▪</g> If the People ſhould be miſtaken, and imagine they are oppreſſed, when they are not, it is the Duty of the <hi>Magiſtrate</hi> to endeavour firſt to correct their Miſtake by fair Means and juſt Reaſoning; in common Humanity he is obliged to take this Method, before he has Recourſe to ſuch Methods as may bring <hi>Death</hi> and <hi>Deſtruction</hi> upon a great Number of his Fellow-Countrymen; and this Me<g ref="char:EOLhyphen"/>thod will generally prevail, where they have not met with any real Oppreſſion: But when this happens to be the Caſe, it cannot be expected that they will give Ear to their Op<g ref="char:EOLhyphen"/>preſſor; nor can the ſevereſt Laws, nor the moſt rigorous Execution of thoſe Laws, always prevent the People's be<g ref="char:EOLhyphen"/>coming tumultuous:—You may ſhoot them—You may hang them—But till the Oppreſſion is removed or al<g ref="char:EOLhyphen"/>leviated, they will never be quiet, till the greateſt Part of them are deſtroyed. The only effectual Method to ſuppreſs Tumults will be, to enquire into the Cauſes, and to take ſuch Meaſures as may be proper for removing thoſe Cauſes: For in the <hi>Body Political,</hi> as in the <hi>Body Natural,</hi> while the Cauſe remains, it is impoſſible to remove the Diſtemper.</q>
             </p>
             <p>
-               <pb n="14" facs="tcp:009594_0014_0F76DC65DFE880B8"/>
+               <pb n="14" facs="unknown:009594_0014_0F76DC65DFE880B8"/>
 Lord B—ST ſpoke to this Effect—<q>The chief End of a Parliamentary Enquiry is not to <hi>diſcover</hi> or to <hi>puniſh</hi> the Perſons concerned in any Tumult; it is the Conduct of the <hi>Magiſtrate</hi> that we are principally to enquire into; and if upon ſuch Enquiry, it ſhould appear, that the Tu<g ref="char:EOLhyphen"/>mult was occaſioned by any unjuſt or <hi>Oppreſſive Conduct,</hi> or by <hi>Negligence</hi> and <hi>Indolence,</hi>
                </q> we ought to cenſure or to puniſh ſuch a Magiſtrate—Such an Enquiry, and ſuch an Iſſue on <q>Enquiry, will ſatisfy the People, it will remove the Cauſe of Tumults, and conſequently will prevent them for the future: Whereas if we employ ourſelves ſolely in diſco<g ref="char:EOLhyphen"/>vering and puniſhing the Rioters, we do not remove but encreaſe the Cauſe of Tumults;—we ſhall make the Peo<g ref="char:EOLhyphen"/>ple more diſcontented than they are—The Severity of the Puniſhment may ſear up the Wound for a Time, but it will not be healed; it will feſter, and endanger the total Diſſo<g ref="char:EOLhyphen"/>lution of the Political Body.</q>
             </p>
@@ -344,17 +344,17 @@ Lord B—ST ſpoke to this Effect—<q>The chief End of a Parliamentary Enquiry 
                      <desc>•</desc>
                   </gap>ted Cannon,</hi> and ſtrutted about in all the Parade of War, as if they choſe rather to have the Province involv'd in a Civil War, and ſet the Blood of per<g ref="char:EOLhyphen"/>haps 5 or 600 of his Majeſty's Subjects ſhed, than give up, or baniſh to their native Caves and Woods, a Parcel of treacherous, faithleſs, raſcally Indians, ſome of which can I be proved to be Murderers. But if they were all innocent, by what Law are we obliged to maintain 140 idle Vagabonds? Muſt <hi>Pennſylvania</hi> work for murdering Savages as their Lords and Maſters?</p>
             <p>
-               <pb n="15" facs="tcp:009594_0015_0F76DC66A67B6CD8"/>
+               <pb n="15" facs="unknown:009594_0015_0F76DC66A67B6CD8"/>
 But in the Name of Wonder! What could be meant by all theſe warlike Preparations? Surely the Quakers did not intend to make Uſe of <hi>Muſquetry</hi> and <hi>Cannon</hi> too, in caſe the <hi>Rioters</hi> had proceeded! If they did, they muſt either be very ignorant or very deſperate and cruel—It has often been declared in Parliament, That <q>the Liberty of Firing at Random, upon any Multitude of his Majeſty's Subjects, is a Liberty which ought to be moſt cautiouſly granted; and never made uſe of but in Caſes of the moſt abſolute Neceſſity—And in this Way of thinking (ſays one of the great Speakers upon the Subject) I am ſupported by the whole Tenor of the Laws of England—It is now 2 or 300 Years ſince <hi>Fire-Arms</hi> came in Uſe amongſt Us, yet the Law has never ſuffered them to be made Uſe of by the common Officers of Juſtice—Pikes, Halberts, Battle-Axes, and ſuch like, are the only Weapons that can be made Uſe of according to Law by ſuch Officers.—It it well known that by a late Statute, which is in Force in <hi>Scotland</hi> as well as in <hi>England;</hi> the Power of the Civil Magiſtrate, in the Caſes of any Mob or riotous Aſſembly, is fully and diſtinctly regulated; yet even by that Law (which I have often heard complained of as a Law not to<g ref="char:EOLhyphen"/>lerable in a free Country) there is no expreſs Order given to the Magiſtrate or his Aſſiſtants, to make Uſe of <hi>Fire-Arms;</hi> ſo cautious was the Legiſlature of giving a legal Authority for making uſe of ſuch Weapons.</q>
             </p>
             <p>
                <q>I know it will be ſaid that Officers of juſtice and their Aſ<g ref="char:EOLhyphen"/>ſiſtants, eſpecially his Majeſty's Troops, when they hap<g ref="char:EOLhyphen"/>pen to be called to the Aſſiſtance of the Civil Magiſtrate, are in a very unlucky Situation, if they are not allowed to make uſe of the Arms in their Hands to prevent their be<g ref="char:EOLhyphen"/>ing knocked on the Head—Their Situation, I ſhall readily grant, may be unlucky enough; but we are to conſider the Law as it ſtands; and as the Law ſtands in <hi>England</hi> as well as in <hi>Scotland,</hi> if a Perſon ſuffers Death by <hi>firing,</hi> the Perſon that fired, and he who gave him Orders to fire, might both be proſecuted for <hi>Murder;</hi> and I am afraid neither of them would have any Reſourſe, but in the King's Mercy.—The Soldiers may upon ſuch Occaſions make Uſe of their ſcrew'd Bayonets, for diſperſing or ſeiz<g ref="char:EOLhyphen"/>ing
-<pb n="16" facs="tcp:009594_0016_0F76DC6765DFF410"/>
+<pb n="16" facs="unknown:009594_0016_0F76DC6765DFF410"/>
 the Rioters; by ſo doing they can hurt none but thoſe that reſiſt them; but I would not adviſe them to <hi>fire,</hi> un<g ref="char:EOLhyphen"/>leſs they ſhould find themſelves in very great Danger of be<g ref="char:EOLhyphen"/>ing overpower'd, and perhaps murdered by the Mob.</q>
             </p>
             <p>Such was the Senſe of the greateſt Men in England, and ſuch the Caution and Lenity of a Britiſh Parliament.</p>
             <p>But what will the World ſay, or Poſterity think of your meek and peaceable Quakers, who thro' pretended Scruples againſt Reſiſtance! thro' Obſtinacy and Love of worldly Power, which they themſelves would neither ap<g ref="char:EOLhyphen"/>ply to the Ends for which it ought to be uſed, nor re<g ref="char:EOLhyphen"/>ſign into the Hands of thoſe that would; who have ſo long ſuffer'd the Province to bleed beneath the <hi>Savage Knife,</hi> its faireſt and moſt fruitful Fields to be deluged in Gore, and laid waſte and deſolate by <hi>Barbarian Spoilers!</hi> when they have been frequently ſupplicated, entreated and conjured, by all the ties of brotherly Love, Friendſhip, Humanity and Juſtice, to conſider the Miſery and Diſtraction of their Coun<g ref="char:EOLhyphen"/>try —but could never be prevailed upon to ſtand up in its Defence, or to uſe proper Means to reſcue it from theſe ſad Calamities: Yet have lately appeared with Arms and all the <hi>dread Machinery of War,</hi> to fight their beggar'd, ruined, miſerable Fellow Subjects; and to afford that Protection to their cruel Enemies and Murderers, which their Unhappy Countrymen, in their moſt deplora<g ref="char:EOLhyphen"/>ble Circumſtances, could never obtain from them?—O ungenerous, unfeeling Men! Was this the way to treat a ruined, deſparing People?—Will not Religion, Reaſon, Humanity, Juſtice, Charity, anſwer No?—Who was it that reduc'd them to the diſagreable Neceſ<g ref="char:EOLhyphen"/>ſity of proceeding in the Manner they did?—From what Source are they to derive their Miſery? and, Who was it that provok'd and moved them to Reſentment? Who is it that has made them Rioters, and then Reproach<g ref="char:EOLhyphen"/>es, and deſires they may be <hi>Shot</hi> or <hi>Hang'd</hi> for being ſo? Who is it that has thrown ſo many Obſtacles in the Way of their Protection and Security? Who is it that has ſcreened and ſupported the Enemies of their Country, and pours out Vengeance and Deſtruction upon thoſe that attempt to chaſ<g ref="char:EOLhyphen"/>tiſe
-<pb n="17" facs="tcp:009594_0017_0F76DC681443BA98"/>
+<pb n="17" facs="unknown:009594_0017_0F76DC681443BA98"/>
 and puniſh them? Theſe are Queſtions which every Body, with a Moments Reflection, may anſwer.</p>
             <p>A mighty Noiſe and Hubbub has been made about kill<g ref="char:EOLhyphen"/>ing a few Indians in Lancaſter-County; and even <hi>Philoſo<g ref="char:EOLhyphen"/>phers</hi> and <hi>Legiſlators</hi> have been employed to raiſe the Holloo upon thoſe that killed them; and to ranſack <hi>Tomes</hi> and <hi>Syſ<g ref="char:EOLhyphen"/>tems,</hi> Writers ancient and modern, for Proofs of their Guilt and Condemnation! And what have they proved at laſt? Why, that the WHITE SAVAGES of <hi>Paxton</hi> and <hi>Donnegall</hi> have violated the Laws of Hoſpitality! I can ſincerely aſ<g ref="char:EOLhyphen"/>ſure the ingenious and worthy Author of the NARRATIVE, that a Shock of <hi>Electricity</hi> would have had a much more ſen<g ref="char:EOLhyphen"/>ſible Effect upon theſe People than all the Arguments and Quotations he has produced.</p>
             <p>For my own Part, I utterly abhor and diſclaim every Act and Species of Cruelty, and I do ſolemnly declare, that I diſapprove of the Manner of killing the Indians in <hi>Lancaſter,</hi> as it was a Kind of Inſult to the Civil Magiſtrates, and an Encroachment upon the Peace and Quiet of that Town; and I wiſh that the <hi>Women</hi> and <hi>little Ones</hi> at leaſt, could have been ſpared.—But no doubt the Actors in that Affair, thought with <hi>Friend Biſhop,</hi> whom I quoted before, that the beſt Way was, while their Hands were in, to <hi>kill all,</hi> 
@@ -365,7 +365,7 @@ and puniſh them? Theſe are Queſtions which every Body, with a Moments Reflect
                      <desc>••</desc>
                   </gap>
                </hi> and his Bro<g ref="char:EOLhyphen"/>ther,
-<pb n="18" facs="tcp:009594_0018_0F76DC68D7EBC780"/>
+<pb n="18" facs="unknown:009594_0018_0F76DC68D7EBC780"/>
 I am told there are undoubted Proofs of their Guilt and Treachery—That they have threatened and drawn their Knives upon People who have refuſed to comply with their Demands, is a Fact well known to Hundreds. <note n="(m)" place="bottom">ABRAHAM NEWCOMER, of the County of <hi>Lancaſter,</hi> one of the Poeple call'd <hi>Menoniſts,</hi> and by Trade a Gun-ſmith, hath perſonally ap<g ref="char:EOLhyphen"/>peared before the Chief-Burgeſs of Lancaſter, and upon his ſolemn Affir<g ref="char:EOLhyphen"/>mation hath declared, <q>That divers Times within theſe few Years BILL SOC and INDIAN JOHN, two of the <hi>Coneſtogoe Indians,</hi> threater<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>
@@ -497,12 +497,12 @@ He further affirms, <q>that a <gap reason="illegible" resp="#PDCC" extent="1 let
                   <desc>••••</desc>
                </gap> of the Affidavits paſſed.</p>
             <p>
-               <pb n="19" facs="tcp:009594_0019_0F76DC69B91AAAE8"/>
+               <pb n="19" facs="unknown:009594_0019_0F76DC69B91AAAE8"/>
 The Public are alſo informed, that <q>The Magiſtrates of Lancaſter ſent to collect the remaining <hi>Indians,</hi>—brought them into the Town, comforted and promiſed them Pro<g ref="char:EOLhyphen"/>tection.</q>—</p>
             <p>If they did this, they muſt be very ſilly indeed—For how was it poſſible for Men deſtitute of a MILITIA, without Men, Arms, or Ammunition to protect them?— But I am credibly informed that the Truth of the Matter was,
-<pb n="20" facs="tcp:009594_0020_0F76DC6A70619308"/>
+<pb n="20" facs="unknown:009594_0020_0F76DC6A70619308"/>
 That theſe Magiſtrates being apprehenſive of the Danger of the Indians, were very deſirous to have them removed im<g ref="char:EOLhyphen"/>mediately to <hi>Philadelphia,</hi> as a Place of much greater Secu<g ref="char:EOLhyphen"/>rity—through which Neglect to remove thither they muſt have
-<pb n="21" facs="tcp:009594_0021_0F76DC6B13BA1450"/>
+<pb n="21" facs="unknown:009594_0021_0F76DC6B13BA1450"/>
 loſt their Lives, and not through any Miſconduct of the Ma<g ref="char:EOLhyphen"/>giſtrates—For it ſeems the Affair was accompliſh'd ſo unex<g ref="char:EOLhyphen"/>pectedly and ſuddenly, that not one Half of the Magiſtrates knew any Thing of the Matter till they were all kill'd; and thoſe that did, could do nothing, unleſs it was to go at the Peril of their Lives, among an enraged and armed Mul<g ref="char:EOLhyphen"/>titude, and attack them with <hi>Stones</hi> and <hi>Brickbats.</hi>
             </p>
             <p>I have indeed heard it alledged againſt thoſe Magiſtrates, that there were ſome <hi>Soldiers</hi> in the Place, which they might have called to their Aſſiſtance— But I have heard it poſitively declared, by many of the Inhabitants of that Town, who were Eye-witneſſes of the whole Tranſaction, that if there were <hi>Ten Thouſand Soldiers</hi> diſpers'd and ſtrolling about in the Man<g ref="char:EOLhyphen"/>ner that theſe were at the Time, it would have been impoſ<g ref="char:EOLhyphen"/>ſible to have got them to their Arms, and properly drawn up, before the Indians were killed; ſo dextrous and expe<g ref="char:EOLhyphen"/>ditious were the PAXTONIANS in executing their Purpoſe.</p>
@@ -513,7 +513,7 @@ loſt their Lives, and not through any Miſconduct of the Ma<g ref="char:EOLhyph
                   </gap> Men, Women and little Children!</q>—This was cruel in<g ref="char:EOLhyphen"/>deed, if it was ſo—But I would be glad to know who could give this Gentleman ſo very particular an Account—I have been told, that not a ſingle Circumſtance happened which could have given riſe to it; and that the above Story was pick'd up from among a Parcel of old Papers in a <hi>Hop-Garden</hi> or a <hi>Hemp-field</hi> (I forget which) upon <hi>Suſquehanna.</hi>—And indeed this ſeems moſt likely to have been the Caſe:—For who could poſſibly tell what paſs'd, or how theſe Indians behaved in the short Interval between their being attacked and all killed, which is ſaid not to have been above Two Minutes:<note n="(n)" place="bottom">It is confidently ſaid, that the PA<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>TONIANS were not above twelve Minutes altogether in the Town, and not above two Minutes in diſpatching the Indians.</note> No one had any Kind or Intercourſe with them, nor even ſaw them during that Time, except thoſe that kil<g ref="char:EOLhyphen"/>led
-<pb n="22" facs="tcp:009594_0022_0F76DC6C061FCB78"/>
+<pb n="22" facs="unknown:009594_0022_0F76DC6C061FCB78"/>
 them, and they declare, that not one of them appeared in that Poſture, not ſpoke a Word; and that if they had, it would have been impoſſible to have heard them for the Noiſe of the ſhouting of the Multitude.</p>
             <p>It is alſo aſſerted in the <hi>Narrative,</hi> 
                <q>That the Bodies of the murdered were brought out and expoſed in the Street.</q>—This appears likewiſe to have been miſrepre<g ref="char:EOLhyphen"/>ſentation—I have been informed by ſome of the moſt reput<g ref="char:EOLhyphen"/>able Inhabitants of <hi>Lancaſter,</hi> that they were never removed out of the <hi>Work-houſe</hi> and <hi>Work-houſe-yard,</hi> where they were ſhot, till they were brought out to be carried to their Graves.</p>
@@ -529,7 +529,7 @@ them, and they declare, that not one of them appeared in that Poſture, not ſpo
                      <desc>•</desc>
                   </gap>
                </hi> Relations of this poor drunken Fellow ſhould have been below the No<g ref="char:EOLhyphen"/>tice of the worthy Author of the <hi>Narrative.</hi> But it ſeem<g ref="char:EOLhyphen"/>this Gentleman was determined to avail himſelf of any Thing that he thought might bring Infamy and Odium upon the <hi>Paxton People;</hi> and for this End he has not ſcrupled to call the killing the Indians MURDER!—I ſhould be glad
-<pb n="23" facs="tcp:009594_0023_0F76DC6C9295F710"/>
+<pb n="23" facs="unknown:009594_0023_0F76DC6C9295F710"/>
 to know, Who appointed him a Judge or Jury upon this <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> fair? Does he find that the Government has call'd it <hi>Mur<g ref="char:EOLhyphen"/>der</hi> in either of the Proclamations he has quoted? I have already declared, that I diſapprove of the Manner of killing theſe Indians; and yet I am perſuaded this Writer, with all His Ingenuity, will find it too hard a Taſk to prove it <hi>Murder.</hi>
@@ -544,7 +544,7 @@ to know, Who appointed him a Judge or Jury upon this <gap reason="illegible" res
             </p>
             <q>
                <p>It was a known Maxim of Liberty amongſt the great, the wiſe, the free Antients, that a <hi>Tyrant,</hi> or a <hi>Traytor,</hi> was a <hi>Beaſt of Prey,</hi> which might be killed by a Spear as well as by a fair Chace; in his <hi>Court</hi> as well as in his <hi>Camp;</hi> that <hi>every</hi> Man had a Right to deſtroy One, who would
-<pb n="24" facs="tcp:009594_0024_0F76DC6E6B7EE340"/>
+<pb n="24" facs="unknown:009594_0024_0F76DC6E6B7EE340"/>
 deſtroy all Men; that no Law ought to protect him who took away all Law; and, that like <hi>Hercules</hi>'s Monſters, it was glorious to rid the World of him, <hi>whenever,</hi> and by <hi>what M<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap>s ſoever,</hi> it could be done.</p>
@@ -587,7 +587,7 @@ deſtroy all Men; that no Law ought to protect him who took away all Law; and, t
                   <desc>•</desc>
                </gap>, though there was no Law ſubſiſting, by which he could be put to Death; and though imploring the publick <hi>Faith,</hi> to which he had been a Traytor and ſworn Enemy.</p>
             <p>Have we not read of Men who have killed themſelves, ra<g ref="char:EOLhyphen"/>ther than become a Prey to a mercileſs Enemy—<hi>Brutus</hi> and <hi>Caſſius,</hi> the <hi>Decii, Otho, Celanus, Cato,</hi> and many others, have done this, prefering Death to Slavery.—Moſt ſtrange then! that the killing of a few treacherous Savages, who by their Perfidy, had forfeited their Lives, ſhould be eſteemed ſo enormous a Crime!—But we are told that this Action
-<pb n="25" facs="tcp:009594_0025_0F76DC6F0DD89610"/>
+<pb n="25" facs="unknown:009594_0025_0F76DC6F0DD89610"/>
 was a Breach of the Rites of <hi>Hoſpitality, which, Heathens, Turks, Saracens, Moors, Negroes</hi> and <hi>Indians,</hi> have held more ſacred than the PAXTONIANS. The Author here proſtitutes his own good Senſe, and contrary to the known Rules of Logic and ſound Reaſon, draws an univerſal Concluſion from particular Premiſes: As well might he argue that <hi>Goliah</hi> was a Giant, and ſo were all the Soldiers in the Army of the <hi>Philiſtines;</hi> or <hi>David</hi> ſpared <hi>Saul</hi> aſleep in the Cave, and therefore he ſpared all his Enemies.</p>
             <p>Would the Limits I have preſcribed to myſelf in this Let<g ref="char:EOLhyphen"/>ter allow me, I could eaſily ſhew you, that every one of thoſe Nations have, in a Thousand Inſtances, violated the Laws of Hoſpitality, and Faith too, in a much higher Degree than theſe People could poſſibly have been guilty of.—But with<g ref="char:EOLhyphen"/>out carrying you through <hi>Homer,</hi> old <hi>Legends,</hi> and <hi>fabulous Travels</hi> and <hi>Voyages—</hi> if you look into your <hi>Bible,</hi> you will find a very notable inſtance, which will ſet this Matter right.—We read in the 4th Chapter of <hi>Judges,</hi> that when <hi>Iſrael</hi> was ſold into the Hands of <hi>Jabin,</hi> King of <hi>Canaan,</hi> the Captain of whoſe Army was <hi>Siſera,</hi> who had nine hun<g ref="char:EOLhyphen"/>dred Chariots of Iron, and had mightily oppreſſed the Chil<g ref="char:EOLhyphen"/>dren of Iſrael for 20 Years; the Lord at laſt, by his Inſtru<g ref="char:EOLhyphen"/>ments <hi>Deborah</hi> and <hi>Barak,</hi> delivered <hi>Iſrael</hi> from <hi>Jabin</hi> and <hi>Siſera.</hi>—<q>And the Lord diſcomfited <hi>Siſera,</hi> and all his Chariots, and all his Hoſt with the Edge of the Sword, before <hi>Barak;</hi> ſo that <hi>Siſera</hi> lighted down off his Chariot, and fled away on his Feet, to the Tent of <hi>Jael,</hi> the Wife of <hi>Heber</hi> the <hi>Kenite:</hi> For there was Peace between Jabin the King of Hazor, and the Houſe of <hi>Heber</hi> the <hi>Kenite.</hi>
                </q>
@@ -600,7 +600,7 @@ was a Breach of the Rites of <hi>Hoſpitality, which, Heathens, Turks, Saracens,
                   </gap>, and gave him Drink, and covered him.</p>
                <p>Again he ſaid unto her, ſtand in the Door of the Tent, and it ſhall be when any Man doth come and enquire of thee and ſay, Is there any Man here? that thou ſhall ſay, No.</p>
                <p>
-                  <pb n="26" facs="tcp:009594_0026_0F76DC6FA1718600"/>
+                  <pb n="26" facs="unknown:009594_0026_0F76DC6FA1718600"/>
 Then <hi>Jael, Heber</hi>'s Wife, took a Nail of the Tent, and took an Hammer in her Hand, and went ſoftly unto him, and ſmote the Nail in his Temples, and faſtened it into the Ground; (for he was faſt aſleep and weary) ſo he died.</p>
             </q>
             <p>Now was this Action (which has every Appearance of Cruelty in it) deemed a Breach of Faith, or a Violation of the Rites of Hoſpitality? No.—In the 5th Chapter we find the Angel of the Lord pronouncing a Bleſſing upon her; no doubt for ridding the World of an Oppreſſor, and a cruel V<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -617,7 +617,7 @@ Then <hi>Jael, Heber</hi>'s Wife, took a Nail of the Tent, and took an Hammer in
             <p>In the <hi>Apocrypha,</hi> we have another Inſtance no leſs re<g ref="char:EOLhyphen"/>markable than the above—We find that <hi>Judith</hi> killed <hi>Ho<g ref="char:EOLhyphen"/>lofernes</hi> even deceitfully, when it could be done no other Way.—<hi>Holofernes</hi> was the chief Captain of the Army of <hi>Aſſur,</hi> who made War againſt <hi>Iſrael;</hi> and when he was go<g ref="char:EOLhyphen"/>ing out againſt them, he threaten'd in theſe Words;—<q>I will go forth in my Wrath, and will cover the whole Earth with the Feet of my Army, and I will give them for a Spoil unto them:—So that their Slain ſhall fill their Valleys and Brooks, and the River ſhall be filled with their Dead, till it overflow—And I will lead them Cap<g ref="char:EOLhyphen"/>tives to the utmoſt Parts of the Earth.</q>
             </p>
             <p>But <hi>Judith,</hi> a Widow, of whom it was ſaid—<q>There was none that gave her an ill Word; for ſhe feared GOD greatly</q>— I ſay, this good Woman, having humbled herſelf, and prayed to God to proſper her Purpoſe, went over to the Camp of the Enemy; and being taken by the Watch and conducted to <hi>Holofernes,</hi> ſhe declared to him that ſhe had fled from her own Nation—<q>Now therefore, my
-<pb n="27" facs="tcp:009594_0027_0F76DC705B48A268"/>
+<pb n="27" facs="unknown:009594_0027_0F76DC705B48A268"/>
 Lord, (ſays ſhe) I will remain with thee, and thy Servant will go out by Night into the Valley, and I will pray unto God, and he will tell me when they have committed their Sins.</q>
             </p>
             <q>
@@ -632,7 +632,7 @@ Lord, (ſays ſhe) I will remain with thee, and thy Servant will go out by Night
                <q>And God turn theſe Things to thee for a perpetual Praiſe, to viſit thee in good Things, becauſe thou haſt not ſpared thy Life for the Affiliction of our Nation, but haſt revenged our Ruin, walking a ſtraight Way before our God. And all the People ſaid, So be it, So be it.</q>
             </p>
             <p>But no doubt it will be objected here, that theſe were not <hi>Chriſtians</hi>— And perhaps I might be challeng'd to produce an Example from any <hi>"civiliz'd Nation in Europe"</hi>—Left you ſhould be prevailed upon to believe that it was not in my Power to anſwer ſuch a Challenge, I ſhall give you an In<g ref="char:EOLhyphen"/>ſtance of the horrid Cruelty and Inhumanity of a <hi>civilized Nation,</hi> whoſe Honour and Hoſpitality the Author of the <hi>Narrative</hi> has taken great Pains to applaud and extol; and
-<pb n="28" facs="tcp:009594_0028_0F76DC7148205280"/>
+<pb n="28" facs="unknown:009594_0028_0F76DC7148205280"/>
 I am induced to point out this Fact in particular<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> at it hap<g ref="char:EOLhyphen"/>pened in our own Time, and in our own Country.</p>
@@ -661,7 +661,7 @@ I am induced to point out this Fact in particular<gap reason="illegible" resp="#
                   </gap>s, before the chief Burgeſs of <hi>Lancaſter,</hi> has declar'd, that during his four Years Captivity with the Indians, they had frequent Intelligence and Advice of the Motions of the Engliſh, from the <hi>Bethleh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>m Indians,</hi> who came conſtantly among them, and kept up a Correſpondence with them.</note> diſoblige three
-<pb n="29" facs="tcp:009594_0029_0F76DC71DE6B0490"/>
+<pb n="29" facs="unknown:009594_0029_0F76DC71DE6B0490"/>
 Fourths of her own Children, rather than part with them—make them Tributaries to ſupport their Enemies in Luxury and Extravagance, whilſt they themſelves have ſcarce Bread to eat—and threaten to knock them on the Head, if they ſhould offer to ſtrike theſe <hi>Darlings,</hi> or even murmur at their hard Fate.—Surely this is no aggravated Repreſentation, but a melancholly Fact!</p>
             <p>Is it any Wonder then if the unhappy Frontier People were really <hi>mad with Rage,</hi> (as they expreſs themſelves) under ſuch cruel Treatment?—Shall <hi>Heathens,</hi> ſhall <hi>Traytors,</hi> ſhall <hi>Rebels</hi> and <hi>Murderers</hi> be protected, cloathed and fed? Shall they be invited from Houſe to Houſe, and riot at Feaſts and Entertainments?<note n="(r)" place="bottom">
                   <p>It is ſaid that ISRAEL, that great Patron tad Friend of Indians, hath kept his Houſe and Stable open for theſe Wretches and their Horſes, whilſt the beggar'd Frontier-People have been drove from his Door, without Pity or Relief.</p>
@@ -693,7 +693,7 @@ Fourths of her own Children, rather than part with them—make them Tributaries 
                </note> Shall they be ſupported in Ea<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e and Indolence, and provided with Phyſicians and Medicines whenever they complain?—And ſhall the <hi>free born Subjects of Britain,</hi> the brave and induſtrious Sons of <hi>Pennſylvania,</hi> be left naked and defenceleſs—abandon'd to Miſery and Want—to beg their Bread from the cold Hand of Charity—and
-<pb n="30" facs="tcp:009594_0030_0F76DC72FB5FC4A0"/>
+<pb n="30" facs="unknown:009594_0030_0F76DC72FB5FC4A0"/>
 for want of Medicine or Relief from a Surgeon or Phyſician, to linger out a miſerable Life, and periſh at laſt under the Wounds received perhaps from there very Villains'—My Soul riſes with Indignation at the Thought!—This is a Conſideration that muſt give Bitterneſs to every humane Spi<g ref="char:EOLhyphen"/>rit, though it ſhould ſuffer no other Way than by Sympa<g ref="char:EOLhyphen"/>thy! What good Man is there, whoſe Heart does not bleed, when he ſees a Set of Men amongſt us embracing BARBARI<g ref="char:EOLhyphen"/>ANS, with more Tenderneſs and Hoſpitality than ever they ſhew'd to their diſtreſſed Countrymen and Fellow ſubject's?—When he hears them expreſs more Sorrow and Compaſſion for the Death of a few <hi>Savage Traytors,</hi> than they ever ex<g ref="char:EOLhyphen"/>preſſed for the Calamities of their Country, and the Mur<g ref="char:EOLhyphen"/>ders of their Fellow-Chriſtians?—When he ſees them take up Arms to protect theſe cruel <hi>Monſters,</hi> which they would never do to protect their own Neighbours and the King's Subjects, from the moſt inhuman Butcheries?—When a Waggon-Load of the ſcalped and mangled Bodies of their Countrymen were brought to <hi>Philadelphia</hi> and laid at the <hi>State-Houſe Door,</hi> and another Waggon-Load brought into the Town of <hi>Lancaſter,</hi> did they rouſe to Arms to avenge the Cauſe of their murder'd Friends?—<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>id we hear any of thoſe Lamentations that are now ſo plentifully poured forth for the <hi>Coneſtogo<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -718,7 +718,7 @@ for want of Medicine or Relief from a Surgeon or Phyſician, to linger out a mi�
             </lg>
             <bibl>SHAKESPEAR.</bibl>
             <p>The Miſeries of the back Inhabitants are really beyond the Power of Deſcription—Nor are the dreadful Barbarities committed upon ſuch of our unhappy Brethren at fell into
-<pb n="31" facs="tcp:009594_0031_0F76DC735EF13FD8"/>
+<pb n="31" facs="unknown:009594_0031_0F76DC735EF13FD8"/>
 the Paws of the Enemy, to be equalled in all the Volumes of Hiſtory. Figure to yourſelf ſome Thouſands of Families, ſeated in Eaſe and Plenty, enjoying every Neceſſary of Life, which hard Labour and Induſtry had procured for them; without a Moment's Warning, and in the Shades of Night, driven from their Habitations; and obliged to <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>e through a lonely tractleſs Wilderneſs, without ſo much as knowing whither they directed their trembling Steps — When the Morning arrives— O what a Scene does it diſcover — The Husband lamenting his murder'd faithful Wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -737,7 +737,7 @@ the Paws of the Enemy, to be equalled in all the Volumes of Hiſtory. Figure to 
             </p>
             <p>Who, my dear Sir, that ſees theſe Things, but muſt be filled with Grief and Horror —Or,</p>
             <p>
-               <pb n="32" facs="tcp:009594_0032_0F76DC7414D95378"/>
+               <pb n="32" facs="unknown:009594_0032_0F76DC7414D95378"/>
 I may well cry out in the Language of the NARRATIVE, <q>Unhappy People!—to have liv'd in ſuch Times, and by ſuch Neighbours<g ref="char:punc">▪</g>
                </q>—If the Characters of the ſeveral Nation, with which the Author of this Piece has fur<g ref="char:EOLhyphen"/>niſh'd us, be juſt—I am ſure theſe unhappy Frontier-People would have been ſafer and better protected in any of thoſe Nations, than they have been in a <hi>Quaker Government</hi>—"They would have been ſafer among the antient <hi>Heathens,"</hi> by whom, it ſeems, <q>they would have been conſidered as <hi>Gueſts</hi> of the Publick, and the Religion of the Country would have operated in their Favour—They would have been ſafer, if they had ſubmitted to TURKS,</q> or had come under their Protection—<q>They would have been ſafer a<g ref="char:EOLhyphen"/>mong <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -753,7 +753,7 @@ I may well cry out in the Language of the NARRATIVE, <q>Unhappy People!—to hav
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ISTRACY of their Country in Queſtion.—But at the
-<pb n="33" facs="tcp:009594_0033_0F76DC75C9A836B8"/>
+<pb n="33" facs="unknown:009594_0033_0F76DC75C9A836B8"/>
 ſame Time, it is undoubtedly true, that a proper Spirit of JEALOUSY, and REVENGE too, in a People who are op<g ref="char:EOLhyphen"/>preſs'd and injur'd, is a politick and commendable Virtue; without which they will never be valued or reſpected.—Upon ſuch Occaſions, I think they ſhould <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ouſe the Spirit of a <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -791,7 +791,7 @@ I may well cry out in the Language of the NARRATIVE, <q>Unhappy People!—to hav
                   <desc>••</desc>
                </gap>e whoſe Duty it is to right them, or to ſee them righted: And it is certain, that in all Countries, the People's Misfortunes are greater or leſs, in Proportion as this Right is encourag'd or check'd."</p>
             <p>It is indeed the beſt and only juſt Way that they can take to breathe their Grievances; and whenever this Way has been taken even KINGS have always accepted their Appli<g ref="char:EOLhyphen"/>cation.— The PARLIAMENTS of GREAT BRITAIN too, who are the grand Barriers of our LIBERTY, have always
-<pb n="34" facs="tcp:009594_0034_0F76DC76682F3F28"/>
+<pb n="34" facs="unknown:009594_0034_0F76DC76682F3F28"/>
 ſhewn themſelves ready and willing to receive the Complaints of their Principals, and to apply quick Remedies to the Grievances contain'd in them.— It has, indeed, been al<g ref="char:EOLhyphen"/>ways thought highly imprudent, not to ſay dangerous, to reſiſt the Groans of the People, utter'd in this Manner.</p>
             <p>This has been a Method, which has always had great Weight with good Men, and has always been a great Terror to Bad.—It has therefore always been encourag'd or diſ<g ref="char:EOLhyphen"/>courag'd, according to the Innocence or Guilt of Men in Power.</p>
             <p>TITUS and TRAJAN, conſcious of their own virtuous Ad<g ref="char:EOLhyphen"/>miniſtration and worthy Purpoſes, encourag'd Addreſſes and Informations of this Kind, from their People:—They wiſely knew, that if the ROMAN People had free Leave to <hi>ſpeak,</hi> they would not take Leave to <hi>act;</hi>—and that whilſt they could have <hi>Redreſs,</hi> "they would not ſeek <hi>Revenge.</hi>"</p>
